@@ -87,6 +87,7 @@
     <Compile Include="Assets\PUNVoice\DemoVoice\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
     <Compile Include="Assets\PUNVoice\Editor\ExitPlayModeOnScriptCompile.cs" />
     <Compile Include="Assets\PUNVoice\Editor\PhotonVoiceRecorderInspector.cs" />
+    <Compile Include="Assets\PyroParticles\Prefab\Editor\PyroParticlesEditor.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Editor.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Preferences.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_RenderModelEditor.cs" />
